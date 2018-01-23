@@ -1,0 +1,7 @@
+# Editor files
+##############
+.idea
+
+# Executable folder
+###################
+out
