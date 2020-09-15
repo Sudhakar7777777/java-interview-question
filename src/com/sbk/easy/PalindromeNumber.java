@@ -52,6 +52,7 @@ public class PalindromeNumber
         iterate.start();
         System.out.println("isPalindrome of [-123456] is " + solution.isPalindrome(-123456));
         System.out.println("isPalindrome of [5] is " + solution.isPalindrome(5));
+        System.out.println("isPalindrome of [0] is " + solution.isPalindrome(0));
         System.out.println("isPalindrome of [22] is " + solution.isPalindrome(22));
         System.out.println("isPalindrome of [121] is " + solution.isPalindrome(121));
         System.out.println("isPalindrome of [16461] is " + solution.isPalindrome(16461));
@@ -61,6 +62,7 @@ public class PalindromeNumber
         half.start();
         System.out.println("isPalindrome of [-123456] is " + solution.isPalindromeHalf(-123456));
         System.out.println("isPalindrome of [5] is " + solution.isPalindromeHalf(5));
+        System.out.println("isPalindrome of [0] is " + solution.isPalindromeHalf(0));
         System.out.println("isPalindrome of [22] is " + solution.isPalindromeHalf(22));
         System.out.println("isPalindrome of [121] is " + solution.isPalindromeHalf(121));
         System.out.println("isPalindrome of [16461] is " + solution.isPalindromeHalf(16461));
